@@ -36,7 +36,7 @@ Dark Mode :
 ![WhatsApp Image 2025-07-20 at 22 36 20_7e57622b](https://github.com/user-attachments/assets/2dc12fe0-df66-4a22-a210-62f8312912ed)
 
 5.**Drawer Navigation :**
-A convenient side-drawer for easy access to different app sections.
+The Drawer Navigation in Smart Shop provides quick access to key sections like Home, Profile, Cart, Favourites, and Logout. It's implemented using a `DrawerWidget`, ensuring intuitive and smooth navigation throughout the app with just a swipe or tap.
 ![WhatsApp Image 2025-07-20 at 22 36 19_76977655](https://github.com/user-attachments/assets/0031b5f7-77f8-44af-a7bb-c58709b889bf)
 
 6. **Logout :**
